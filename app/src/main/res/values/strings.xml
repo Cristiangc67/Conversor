@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="app_title">Complemento a 2 de 8-bits</string>
+    <string name="decimal">Decimal</string>
+    <string name="error">*el numero debe estar entre -128 y 127</string>
+    <string name="binary">Binario</string>
+    <string name="complement">Complemento</string>
+    <string name="calculate">Calcular</string>
+</resources>
